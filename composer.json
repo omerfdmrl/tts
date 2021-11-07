@@ -1,0 +1,21 @@
+{
+    "name": "omerfdmrl/tts",
+    "description": "Php Google Tts Class",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Omerfdmrl\\Tts\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Omer Faruk Demirel",
+            "email": "info@omerfd.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
