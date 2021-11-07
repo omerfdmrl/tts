@@ -2,6 +2,11 @@
 
 Simple Google Tts Api Class
 
+[![Latest Stable Version](http://poser.pugx.org/omerfdmrl/tts/v)](https://packagist.org/packages/omerfdmrl/tts) 
+[![Total Downloads](http://poser.pugx.org/omerfdmrl/tts/downloads)](https://packagist.org/packages/omerfdmrl/tts) 
+[![Latest Unstable Version](http://poser.pugx.org/omerfdmrl/tts/v/unstable)](https://packagist.org/packages/omerfdmrl/tts) 
+[![License](http://poser.pugx.org/omerfdmrl/tts/license)](https://packagist.org/packages/omerfdmrl/tts) 
+[![PHP Version Require](http://poser.pugx.org/omerfdmrl/tts/require/php)](https://packagist.org/packages/omerfdmrl/tts)
 
 
 ### Features
