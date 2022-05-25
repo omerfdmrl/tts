@@ -87,7 +87,7 @@ echo $tts->error();
 
 
 ## Docs
-Documentation page: [Security Docs][doc-url]
+Documentation page: [Docs][doc-url]
 
 
 ## Licence
